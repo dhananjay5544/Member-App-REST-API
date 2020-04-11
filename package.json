@@ -1,0 +1,23 @@
+{
+  "name": "rest-api",
+  "version": "1.0.0",
+  "description": "REST api for testing",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index"
+  },
+  "keywords": [
+    "REST",
+    "API",
+    "Express"
+  ],
+  "author": "post_exploit",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^4.0.3",
+    "moment": "^2.24.0",
+    "nodemon": "^2.0.3",
+    "uuid": "^7.0.3"
+  }
+}
